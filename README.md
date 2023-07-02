@@ -10,6 +10,8 @@ This is a Spring Boot application that provides an API for managing films and ra
 
 4. The current average rating is displayed along with each film and thus needs to be retrievable.
 
+This repository adheres to java best practices and SOLID principles to ensure high-quality, maintainable and extensible code.
+
 ## Installation
 
 To install this application, follow these steps:
