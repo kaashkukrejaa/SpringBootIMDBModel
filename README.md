@@ -1,4 +1,4 @@
-# Spring Boot IMDB Model
+# Spring Boot IMDB Application
 
 This is a Spring Boot application that provides an API for managing films and ratings. It contains the following :
 
